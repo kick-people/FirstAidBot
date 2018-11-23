@@ -1,0 +1,10 @@
+**I can help you with first aid in different situations.**
+You can control me by clicking these buttons:
+To start or restart the bot - /start
+Blood stopping guide - [Stop Bleeding]
+Indirect heart massage guide - [Heart Massage]
+Artificial respiration guide - [Artificial Respiration]
+Heimlich Maneuver guide - [Heimlich Maneuver]
+Fainting first aid manual - [Fainting]
+First aid guide for sunstroke - [Sun Stroke]
+Concerning the arisen questions - @strelcov_v
