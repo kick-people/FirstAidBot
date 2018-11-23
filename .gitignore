@@ -6,7 +6,6 @@
 .checkstyle
 .idea/
 out/
-target/
 *.log
 allure-results/
 .allure/
